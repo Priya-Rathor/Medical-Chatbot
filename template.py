@@ -14,6 +14,7 @@ list_of_files =[
     "app.py",
     "store_index.py",
     "static/.gitkeep",
+    "static/style.css",
     "tempalates/chat.html"
 ]
 
